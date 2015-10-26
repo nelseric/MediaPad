@@ -1,0 +1,1167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hand",
+				"handleTypeChange"
+			],
+			[
+				"inv",
+				"invite_link"
+			],
+			[
+				"admin",
+				"admin_email"
+			],
+			[
+				"default",
+				"default_partner_margin_mills"
+			],
+			[
+				"defau",
+				"default_partner_margin_mills"
+			],
+			[
+				"Request",
+				"RequestMailer"
+			],
+			[
+				"rec",
+				"recipient_email"
+			],
+			[
+				"private",
+				"private_channel"
+			],
+			[
+				"click_",
+				"click_button"
+			],
+			[
+				"invite",
+				"invite_email"
+			],
+			[
+				"invit",
+				"invite_code"
+			],
+			[
+				"invi",
+				"invite_email"
+			],
+			[
+				"USer",
+				"UserMailer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MediaPad.ino",
+			"settings":
+			{
+				"buffer_size": 2027,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/enelson/lib/arduino-1.6.5-r5/hardware/teensy/avr/cores/teensy/keylayouts.h",
+			"settings":
+			{
+				"buffer_size": 270413,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "ssc++",
+		"selected_items":
+		[
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"projman",
+				"Project Manager"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"checkne",
+				"Git: Checkout New Branch"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"ssjsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"STAT",
+				"Git: Status"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"check",
+				"Git: Checkout New Branch"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"github",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"pull",
+				"Github: Create Pull Request"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ssrails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"sstext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"searchin",
+				"Preferences: Search in Project Settings – Default"
+			],
+			[
+				"searchinpros",
+				"Preferences: Search in Project Settings – User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/enelson/Arduino/MediaPad"
+	],
+	"file_history":
+	[
+		"/home/enelson/lib/arduino-1.6.5-r5/hardware/teensy/avr/cores/teensy/keylayouts.c",
+		"/home/enelson/dev/lib/contract_generation/Gemfile",
+		"/home/enelson/dev/lib/contract_generation/lib/contract_generation/in_memory_file.rb",
+		"/home/enelson/dev/apps/portal/portal-master/Rakefile",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/admin/OrgsCreate.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/index.html",
+		"/home/enelson/dev/apps/portal/portal-master/spec/features/organizations_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/admin/Orgs.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/main.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/spec/controllers/events_controller_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/spec_helper.rb",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/Create.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/app/controllers/eligo_portal/organizations_controller.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/controllers/eligo_portal/events_controller.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/rails_helper.rb",
+		"/home/enelson/dev/apps/portal/portal-master/lib/tasks/migrate.rake",
+		"/home/enelson/dev/apps/portal/portal-master/app/controllers/application_controller.rb",
+		"/home/enelson/dev/apps/portal/portal-master/.pryrc",
+		"/home/enelson/dev/apps/portal/portal-master/spec/support/dashboard_macros.rb",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/admin/OrgsDetail.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/admin/Users.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/stores/org.js",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/stores/event.js",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/PermissionsModal.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/admin/Roles.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_portal/organization.rb",
+		"/home/enelson/dev/apps/portal/portal-master/public/index.html",
+		"/home/enelson/dev/apps/portal/portal-master/spec/controllers/users_controller_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/notification_mailer/detail.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/mailers/notification_mailer.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/controllers/eligo_pricing/requests_controller.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/mailers/notification_mailer_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/controllers/channels_controller_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/features/invitations_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/models/event_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/models/channel_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/LoginPage.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/README.md",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/package.json",
+		"/home/enelson/dev/apps/portal/portal-master/app/serializers/eligo_portal/organization_serializer.rb",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/src/scripts/components/CreateForm.jsx",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_portal/sow.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_pricing/request.rb",
+		"/home/enelson/dev/project_files/dashboard-master.sublime-project",
+		"/home/enelson/dev/apps/portal/portal-master/web/dashboard/bower.json",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_pricing/status.rb",
+		"/home/enelson/dev/apps/portal/portal-master/README.md",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/notification_mailer/detail.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/notification_mailer/notify.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/notification_mailer/notify.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/notification/notify.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/notification/notify.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/mailers/request_mailer_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/mailers/request_mailer.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/impending_inactive.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/impending_inactive.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/user_mailer/invitation.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/failed_tpv.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/failed_tpv.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_portal/user.rb",
+		"/home/enelson/dev/apps/portal/portal-master/Gemfile.lock",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/confirmation_failure.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/confirmation_failure.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/mailers/previews/request_mailer_preview.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/confirmation.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/confirmation.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/completion.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/request_mailer/completion.text.erb",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_hedge/user.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/controllers/eligo_portal/users_controller.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_portal/app.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/models/eligo_portal/event.rb",
+		"/home/enelson/dev/apps/portal/portal-master/Gemfile",
+		"/home/enelson/dev/apps/portal/portal-master/test/test_helper.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/mailers/user_mailer_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/config/database.yml",
+		"/home/enelson/dev/apps/portal/portal-master/.bundle/gems/ruby/2.1.0/gems/minitest-5.8.0/lib/minitest.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/mailers/user_mailer.rb",
+		"/home/enelson/dev/apps/portal/portal-master/test/integration/dashboard_test.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/views/user_mailer/invitation.html.erb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/mailers/previews/user_mailer_preview.rb",
+		"/home/enelson/dev/apps/portal/portal-master/spec/controllers/apps_controller_spec.rb",
+		"/home/enelson/dev/apps/portal/portal-master/app/controllers/eligo_portal/apps_controller.rb",
+		"/home/enelson/dev/apps/portal/portal-master/.agignore",
+		"/home/enelson/dev/apps/www.eligoenergy.com/test/integration/signup_test.rb",
+		"/home/enelson/dev/README.md",
+		"/home/enelson/dev/apps/www.eligoenergy.com/README.md",
+		"/home/enelson/dev/config/routes.rb",
+		"/home/enelson/.config/sublime-text-3/Packages/Search in Project/SearchInProject.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"KEY_A",
+			"to_addr",
+			"send_letter",
+			"to_addr",
+			"io",
+			"quantity",
+			"setting_id",
+			"double_sided",
+			"setting_id",
+			"addr2",
+			"image64",
+			"letter",
+			"lob",
+			"Lob",
+			"lob",
+			"skip",
+			"changeEvent",
+			"event",
+			"evt",
+			"execute_javascript",
+			"handleTypeChange",
+			"Admin",
+			"Broker",
+			"getInitialState",
+			"setstate",
+			"type",
+			"create",
+			"before",
+			"@hash['email_message']",
+			"permission",
+			"map",
+			"input",
+			"invite",
+			"uness",
+			"EligoPortal",
+			"default",
+			"map",
+			"render",
+			"first",
+			"Mana",
+			"match",
+			"Brok",
+			"channel",
+			"Channel",
+			"channel",
+			"create",
+			"input",
+			".set",
+			"filter",
+			"short",
+			"Organizations",
+			"params\\[\\:partner_fee\\]",
+			"create",
+			"default",
+			"partner_fee",
+			"create",
+			"default_channel_manager_mills",
+			")\n",
+			"default_channel_manager_mills",
+			"default_partner",
+			"criteria_type",
+			"criteria",
+			"default_channel_manager_mills",
+			"default_",
+			"default",
+			"default_channel_manager_mills",
+			"def latest_sow_value",
+			"latest_sow_value",
+			"partner_fee",
+			"rate",
+			"partner_margin",
+			"mils",
+			"default_partner_margin",
+			"channel_manager",
+			"default_channel_manager_mills",
+			"default_ch",
+			"pay_on",
+			"required",
+			"hash",
+			"nil",
+			"RequestMailer",
+			"options",
+			"<br>",
+			"#\\{([^}]+)\\}",
+			"<br>",
+			"\\\\n",
+			"receive_emails",
+			"@hash",
+			"hash",
+			"SendEmail",
+			"\"",
+			"<br>",
+			"#\\{([^}]+)\\}",
+			"r",
+			"#\\{([^}]+)\\}",
+			"%>\n",
+			" #{",
+			"\\\\n",
+			"requests",
+			"user",
+			"request",
+			"#\\{([^}]+)\\}",
+			"<br>",
+			"id",
+			"customer_name",
+			"user.name",
+			"sendEmail",
+			"email",
+			"deactivated",
+			"deactivate",
+			"dest",
+			"deactivate",
+			"<br>",
+			"#\\{([^}]+)\\}",
+			"user",
+			"reason",
+			"a",
+			"fa",
+			"recipient_email",
+			"has_interval_data",
+			"user",
+			"<br>",
+			"<br><br>",
+			"#\\{([^}]+)\\}",
+			"sendEmai",
+			"save",
+			"before",
+			"after"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<br>\\\\n",
+			"<%= $1 %>",
+			"<br>\\n",
+			"\\n",
+			"<br>\\n",
+			"<%= $1 %>",
+			"\\n",
+			"<%= $1 %>",
+			"<br>\\n",
+			"<%= @request.$1 %>",
+			"<%= $1 %>",
+			"<%= @request.$1 %>",
+			"<br>\\n",
+			"<br>\\n<br>",
+			"<%= $1 %>",
+			"<br>\\n<br>",
+			"<%= $1 %>",
+			"<%= $1 %?",
+			"<%=",
+			"",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MediaPad.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/enelson/lib/arduino-1.6.5-r5/hardware/teensy/avr/cores/teensy/keylayouts.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 270413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6516,
+								6516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 112.0
+	},
+	"output.git-commit":
+	{
+		"height": 118.0
+	},
+	"output.git-pull":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "MediaPad.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"generator",
+				"lib/contract_generation/generator.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"gemsp",
+				"contract_generation.gemspec"
+			],
+			[
+				"genr",
+				"lib/contract_generation/generator.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"gemloc",
+				"Gemfile.lock"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"macros",
+				"spec/support/dashboard_macros.rb"
+			],
+			[
+				"orgspec",
+				"spec/features/organizations_spec.rb"
+			],
+			[
+				"orgcreate",
+				"web/dashboard/src/scripts/components/admin/OrgsCreate.jsx"
+			],
+			[
+				"orgscre",
+				"web/dashboard/src/scripts/components/admin/OrgsCreate.jsx"
+			],
+			[
+				"orgs",
+				"web/dashboard/src/scripts/components/admin/Orgs.jsx"
+			],
+			[
+				"main.jsx",
+				"web/dashboard/src/scripts/main.jsx"
+			],
+			[
+				"eventsconspe",
+				"spec/controllers/events_controller_spec.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"migra",
+				"lib/tasks/migrate.rake"
+			],
+			[
+				"create",
+				"web/dashboard/src/scripts/components/Create.jsx"
+			],
+			[
+				"orgscontr",
+				"app/controllers/eligo_portal/organizations_controller.rb"
+			],
+			[
+				"applc",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"eventsco",
+				"app/controllers/eligo_portal/events_controller.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"permi",
+				"web/dashboard/src/scripts/components/PermissionsModal.jsx"
+			],
+			[
+				"users.js",
+				"web/dashboard/src/scripts/components/admin/Users.jsx"
+			],
+			[
+				"admin",
+				"web/dashboard/src/scripts/components/admin/Roles.jsx"
+			],
+			[
+				"orged",
+				"web/dashboard/src/scripts/components/admin/OrgsDetail.jsx"
+			],
+			[
+				"org",
+				"app/models/eligo_portal/organization.rb"
+			],
+			[
+				"index",
+				"public/index.html"
+			],
+			[
+				"orgcontr",
+				"app/controllers/eligo_portal/organizations_controller.rb"
+			],
+			[
+				"orgsde",
+				"web/dashboard/src/scripts/components/admin/OrgsDetail.jsx"
+			],
+			[
+				"adminorgs",
+				"web/dashboard/src/scripts/components/admin/Orgs.jsx"
+			],
+			[
+				"orgscreate",
+				"web/dashboard/src/scripts/components/admin/OrgsCreate.jsx"
+			],
+			[
+				"detailhtm",
+				"app/views/notification_mailer/detail.html.erb"
+			],
+			[
+				"notmai",
+				"app/mailers/notification_mailer.rb"
+			],
+			[
+				"notife",
+				"spec/mailers/notification_mailer_spec.rb"
+			],
+			[
+				"chanconspe",
+				"spec/controllers/channels_controller_spec.rb"
+			],
+			[
+				"usersconspe",
+				"spec/controllers/users_controller_spec.rb"
+			],
+			[
+				"channel",
+				"spec/models/channel_spec.rb"
+			],
+			[
+				"evenrtsc",
+				"spec/controllers/events_controller_spec.rb"
+			],
+			[
+				"eventspec",
+				"spec/models/event_spec.rb"
+			],
+			[
+				"usersjs",
+				"web/dashboard/src/scripts/components/admin/Users.jsx"
+			],
+			[
+				"macro",
+				"spec/support/dashboard_macros.rb"
+			],
+			[
+				"orgsjsx",
+				"web/dashboard/src/scripts/components/admin/Orgs.jsx"
+			],
+			[
+				"orgscreat",
+				"web/dashboard/src/scripts/components/admin/OrgsCreate.jsx"
+			],
+			[
+				"dashmac",
+				"spec/support/dashboard_macros.rb"
+			],
+			[
+				"requestcontr",
+				"app/controllers/eligo_pricing/requests_controller.rb"
+			],
+			[
+				"createfor",
+				"web/dashboard/src/scripts/components/CreateForm.jsx"
+			],
+			[
+				"sow",
+				"app/models/eligo_portal/sow.rb"
+			],
+			[
+				"reques",
+				"app/models/eligo_pricing/request.rb"
+			],
+			[
+				"orgseria",
+				"app/serializers/eligo_portal/organization_serializer.rb"
+			],
+			[
+				"webread",
+				"web/dashboard/README.md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"statu",
+				"app/models/eligo_pricing/status.rb"
+			],
+			[
+				"organ",
+				"app/models/eligo_portal/organization.rb"
+			],
+			[
+				"notmail",
+				"app/mailers/notification_mailer.rb"
+			],
+			[
+				"detail",
+				"app/views/notification_mailer/detail.html.erb"
+			],
+			[
+				"notspec",
+				"spec/mailers/notification_mailer_spec.rb"
+			],
+			[
+				"reque",
+				"app/models/eligo_pricing/request.rb"
+			],
+			[
+				"nottext",
+				"app/views/notification/notify.text.erb"
+			],
+			[
+				"notifima",
+				"app/views/notification/notify.html.erb"
+			],
+			[
+				"eventsc",
+				"app/controllers/eligo_portal/events_controller.rb"
+			],
+			[
+				"imptext",
+				"app/views/request_mailer/impending_inactive.text.erb"
+			],
+			[
+				"intxt",
+				"app/views/user_mailer/invitation.text.erb"
+			],
+			[
+				"inahtml",
+				"app/views/request_mailer/impending_inactive.html.erb"
+			],
+			[
+				"imp",
+				"app/views/request_mailer/impending_inactive.text.erb"
+			],
+			[
+				"failedt",
+				"app/views/request_mailer/failed_tpv.html.erb"
+			],
+			[
+				"tpvtext",
+				"app/views/request_mailer/failed_tpv.text.erb"
+			],
+			[
+				"requestmai",
+				"app/mailers/request_mailer.rb"
+			],
+			[
+				"user",
+				"app/models/eligo_portal/user.rb"
+			],
+			[
+				"invspe",
+				"spec/features/invitations_spec.rb"
+			],
+			[
+				"conffailt",
+				"app/views/request_mailer/confirmation_failure.text.erb"
+			],
+			[
+				"conffailht",
+				"app/views/request_mailer/confirmation_failure.html.erb"
+			],
+			[
+				"req",
+				"app/models/eligo_pricing/request.rb"
+			],
+			[
+				"confh",
+				"app/views/request_mailer/confirmation.html.erb"
+			],
+			[
+				"confhtml",
+				"app/views/request_mailer/confirmation.html.erb"
+			],
+			[
+				"conft",
+				"app/views/request_mailer/confirmation.text.erb"
+			],
+			[
+				"conftext",
+				"app/views/request_mailer/confirmation.text.erb"
+			],
+			[
+				"mailconfi",
+				"app/views/request_mailer/confirmation.text.erb"
+			],
+			[
+				"preview",
+				"spec/mailers/previews/request_mailer_preview.rb"
+			],
+			[
+				"reqmaisl",
+				"spec/mailers/request_mailer_spec.rb"
+			],
+			[
+				"reqmaisle",
+				"spec/mailers/request_mailer_spec.rb"
+			],
+			[
+				"eventscon",
+				"app/controllers/eligo_portal/events_controller.rb"
+			],
+			[
+				"requestmails",
+				"spec/mailers/request_mailer_spec.rb"
+			],
+			[
+				"reqe",
+				"app/models/eligo_pricing/request.rb"
+			],
+			[
+				"comtext",
+				"app/views/request_mailer/completion.text.erb"
+			],
+			[
+				"comple",
+				"app/views/request_mailer/completion.html.erb"
+			],
+			[
+				"request",
+				"app/models/eligo_pricing/request.rb"
+			],
+			[
+				"eventscontr",
+				"app/controllers/eligo_portal/events_controller.rb"
+			],
+			[
+				"app.",
+				"app/models/eligo_portal/app.rb"
+			],
+			[
+				"app",
+				"app/models/eligo_portal/app.rb"
+			],
+			[
+				"event",
+				"app/models/eligo_portal/event.rb"
+			],
+			[
+				"usersconrtr",
+				"app/controllers/eligo_portal/users_controller.rb"
+			],
+			[
+				"userscontr",
+				"spec/controllers/users_controller_spec.rb"
+			],
+			[
+				"invitsp",
+				"spec/features/invitations_spec.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"minitest",
+				".bundle/gems/ruby/2.1.0/gems/minitest-5.8.0/lib/minitest.rb"
+			],
+			[
+				"spec_",
+				"spec/spec_helper.rb"
+			],
+			[
+				"userscontro",
+				"app/controllers/eligo_portal/users_controller.rb"
+			],
+			[
+				"usemaispec",
+				"spec/mailers/user_mailer_spec.rb"
+			],
+			[
+				"usermailspec",
+				"spec/mailers/user_mailer_spec.rb"
+			],
+			[
+				"usermai",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"usermailerpre",
+				"spec/mailers/previews/user_mailer_preview.rb"
+			],
+			[
+				"usercontr",
+				"app/controllers/eligo_portal/users_controller.rb"
+			],
+			[
+				"appscont",
+				"app/controllers/eligo_portal/apps_controller.rb"
+			],
+			[
+				"apps_contspec",
+				"spec/controllers/apps_controller_spec.rb"
+			],
+			[
+				"app.r",
+				"app/models/eligo_portal/app.rb"
+			],
+			[
+				"dashba",
+				"test/integration/dashboard_test.rb"
+			],
+			[
+				"dashb",
+				"test/integration/dashboard_test.rb"
+			],
+			[
+				"rails_",
+				"spec/rails_helper.rb"
+			],
+			[
+				"usercontroller",
+				"apps/portal/portal-master/app/controllers/eligo_portal/users_controller.rb"
+			],
+			[
+				"usermailer",
+				"apps/portal/portal-master/app/mailers/user_mailer.rb"
+			],
+			[
+				"mailspec",
+				"apps/portal/portal-master/spec/mailers/user_mailer_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"crm",
+				"~/dev/project_files/fat-free-crm.sublime-project"
+			],
+			[
+				"cont",
+				"~/dev/project_files/contract-generation.sublime-project"
+			],
+			[
+				"dev",
+				"~/dev/dev.sublime-project"
+			],
+			[
+				"me",
+				"~/proj/mehpisto/mephisto.sublime-project"
+			],
+			[
+				"de",
+				"~/dev/dev.sublime-project"
+			],
+			[
+				"",
+				"~/dev/dev.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
